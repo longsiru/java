@@ -1,4 +1,4 @@
-package test.prac01;
+package test.prac08;
 /*
  * 面向过程：procedure oriented programming,强调的是功能行为，考虑怎么做
  * 面向对象：object oriented programming，强调具备了功能的对象，考虑谁来做
