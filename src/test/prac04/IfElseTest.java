@@ -54,6 +54,24 @@ public class IfElseTest {
 			System.out.println("你要成仙了");
 		}
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 
 	}
 
